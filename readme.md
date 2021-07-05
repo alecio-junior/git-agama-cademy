@@ -1,0 +1,1 @@
+Aula de git ministrado pelo professor Jc Bombardelli para o programa da Hiring Code em parceria da gama academy com a VTEX
